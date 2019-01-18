@@ -1,3 +1,4 @@
+# noinspection PyInterpreter,PyInterpreter,PyInterpreter,PyInterpreter,PyInterpreter
 l=[1,1]
 a,b=1,1
 n=int(input("你想要多少位斐波那契数列？\n(至少一位)\n"))
